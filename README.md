@@ -83,5 +83,7 @@ O projeto utiliza funções e classes para automatizar o fluxo de tratamento dos
 Exemplo:
 
 if __name__ == '__main__':
-    execute_pipeline()
+    caminho = "nome do arquivo.xlsx"
+    pipeline = PipelineDados(caminho)
+    pipeline.execute()
 
