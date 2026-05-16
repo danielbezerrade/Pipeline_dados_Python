@@ -1,6 +1,0 @@
-2026-05-16 19:07:40,220 - ERROR - Erro: arquivo 'nome_do_arquivo.xlsx' não encontrado
-2026-05-16 19:07:46,973 - INFO - Arquivo 'base_vendas_tecnologia_pipeline.xlsx' carregado com sucesso
-2026-05-16 19:07:46,980 - INFO - Ajuste feito - Limpeza de dados
-2026-05-16 19:07:46,986 - INFO - Ajuste feito - padronização das colunas realizados
-2026-05-16 19:07:47,009 - INFO - Aqruivo tratado salvo!
-2026-05-16 19:07:47,009 - INFO - Pipeline executado com sucesso
